@@ -1,4 +1,3 @@
-# Java Practices
 # Asal Sayı (Prime Number)
 
 Asal sayılar, sadece iki pozitif tam sayı böleni olan doğal sayılardır. 
