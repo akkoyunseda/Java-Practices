@@ -1,7 +1,5 @@
 package arkadas;
 
-
-
 public class arkadas {
 	public static void main(String []args){
         int number1 = 220;//sayilar dedistirilebilir
