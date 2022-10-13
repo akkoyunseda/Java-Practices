@@ -12,7 +12,7 @@ public class AsalSayi {
 				System.out.println( number + " sayisi asal degil.");
 			}
 			else {
-				System.out.println( number + " sayısı asaldır.");
+				System.out.println( number + " sayÃ½sÃ½ asaldÃ½r.");
 			}
 		}
 
