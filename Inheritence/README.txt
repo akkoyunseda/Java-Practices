@@ -1,0 +1,1 @@
+Inheritence(kalıtım) konusu ile alakalı örnek çalışma. 
