@@ -1,0 +1,5 @@
+1.satır: şu anda 1.satır okunuyor.
+2.satır: şu anda 2.satır okunuyor.
+3.satır: şu anda 3.satır okunuyor.
+4.satır: şu anda 4.satır okunuyor.
+5.satır: şu anda 5.satır okunuyor.
